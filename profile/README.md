@@ -84,7 +84,7 @@ RestTemplate을 활용하여 금융 API를 모듈화하겠습니다.
 
 | 이름   | 역할      | Github                        | 구글 ID                  |
 | ------ | --------- | :---------: | ------------------------ |
-| 고다현 | 팀장 / BE / FE   | <a href="https://github.com/dahyunko" target="_blank"><img src="https://img.shields.io/badge/dahyunko-181717?style=flat-square&logo=github&logoColor=white"/> </a>    | kdhgby@gmail.com   |
+| 고다현 | 팀장 / BE / FE   | <a href="https://github.com/dahyunko" target="_blank"><img src="https://img.shields.io/badge/dahyunko-181717?style=flat-square&logo=github&logoColor=white"/> </a>    | dahyunbless@gmail.com   |
 | 김준우 | FE | <a href="https://github.com/rlawnsdn" target="_blank"><img src="https://img.shields.io/badge/rlawnsdn-181717?style=flat-square&logo=github&logoColor=white"/> </a>    | junoo1997@naver.com   |
 | 지수영 | FE | <a href="https://github.com/SooYoungJi" target="_blank"><img src="https://img.shields.io/badge/SooYoungJi-181717?style=flat-square&logo=github&logoColor=white"/> </a> | jisooyoung97@gmail.com   |
 | 박상욱 | BE | <a href="https://github.com/sw0501" target="_blank"><img src="https://img.shields.io/badge/sw0501-181717?style=flat-square&logo=github&logoColor=white"/> </a>    | dkxkqkrtkddn@gmail.com   |
